@@ -1,6 +1,6 @@
 # ReminderApp
 
-A CLI-based Reminder System using Python with a clean architecture.
+A Reminder System using Python with a clean MVC architecture.
 
 ---
 
@@ -27,6 +27,10 @@ A CLI-based Reminder System using Python with a clean architecture.
 ---
 
 ##  Architecture
-
+    MVC architecture
+    Model 
+    View 
+    Controller
+    
 ### Folder Structure
 
