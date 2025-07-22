@@ -32,7 +32,7 @@ def main():
                 print("Please enter a valid number.")
           
         elif choice == "3":
-            print("\n📋 Your Reminders:")
+            print("\n📝 Your Reminders:")
             print(format_all(controller.get_reminders()))
 
         elif choice == "4":
